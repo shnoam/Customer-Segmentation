@@ -15,3 +15,8 @@ It was developed as part of my preparation for an interview.
 - **Clustering**: Apply KMeans and DBSCAN clustering algorithms.
 - **Visualization**: Visualize clusters and feature distributions using various plots.
 - **Dimensionality Reduction**: Use PCA for visualization of high-dimensional data.
+
+## Optional Future Work
+  1.  Apply other tecniques to evaluate K-Means - for example, Siiluette score
+  2.  Adjust DBSCAN parameters for better results
+  3.  Explore more patterns in the data, apply seperate clustering on customer groups (e.g Gender, City, Membership type...)
